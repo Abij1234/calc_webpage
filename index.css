@@ -1,0 +1,50 @@
+body{
+background-color: blue;
+}
+
+.headman{
+color: yellow;;
+text-align: center;
+text-weight: bold;
+}
+
+#calcu{
+width: 500px;
+height: 450px;
+margin-left: 200px;
+background-color: black;
+margin-top: 50px;
+}
+
+.btn{
+width: 100px;
+height: 50px;
+margin-left: 15px;
+margin-top: 15px;
+}
+
+#scr{
+width: 300px;
+height: 35px;
+margin-left: 100px;
+margin-top: 20px;
+pointer-events: none;
+background-color: #10eb7a;
+}
+
+.nnc{
+color: white;
+text-align: right;
+font-size: 15px;
+}
+
+.details{
+color: #f0ff17;
+font-size: 28px;
+}
+
+.tnx{
+color: #171414;
+text-align: center;
+font-size: 25px;
+}
